@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+/* Tailwind Styles */
+
+.app {
+  @apply relative z-10 flex justify-center items-center flex-col max-w-7xl mx-auto sm:px-16 px-6;
+}
+
+.orange_gradient {
+  @apply bg-gradient-to-r from-blue-500 via-green-600 to-red-500 bg-clip-text text-transparent;
+}
+
+.head_text {
+  @apply mt-5 text-5xl font-extrabold leading-[1.15]  sm:text-6xl;
+}
+
+.desc {
+  @apply my-5 text-lg text-gray-400 sm:text-xl max-w-2xl;
+}
+
+.search_input {
+  @apply block w-full rounded-md border border-gray-200 bg-white py-2.5  pl-5 pr-12 text-sm shadow-lg font-medium focus:border-black focus:outline-none focus:ring-0;
+}
+
+.bold{
+  @apply font-bold
+}
