@@ -8,12 +8,11 @@
 <ol>
   <li>Clone the repository:</li>
 </ol>
-<pre><code class="language-shell">git clone https://github.com/IsraelBosun/omdbapi.git</code></pre>
+<pre><code class="language-shell">https://github.com/PWCRAFT/MOVIEDATABASE-PROJECT-.git</code></pre>
 
 <ol start="2">
   <li>Navigate to the project directory:</li>
 </ol>
-<pre><code class="language-shell">cd omdbapi</code></pre>
 
 <ol start="3">
   <li>Install dependencies:</li>
