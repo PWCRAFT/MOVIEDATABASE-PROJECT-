@@ -1,6 +1,4 @@
-![oomdb](https://github.com/IsraelBosun/omdbapi/assets/110021253/46e7c5b0-bf6b-4ef8-8bd8-49409b96c1c6)
 
- 
  <h1>About Project</h1>
 
 <p>This project is a movie search application built with Vite and React. It utilizes the OMDB API to access movie details and displays them on the screen.</p>
